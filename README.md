@@ -8,7 +8,7 @@ A Ubisoft/Rainbow Six Siege username availability checker with login, random nam
 
 Install dependencies:
 ```bash
-pip install requests pyperclip
+pip install requests
 ```
 
 ## Setup
@@ -40,7 +40,7 @@ You will be prompted for a 2FA code sent to your email, then presented with the 
 ## uplays.json
 To use option 4, create an `uplays.json` file in the same folder:
 ```json
-["PlayerName1", "PlayerName2", "tryhard360"]
+["PlayerName1", "PlayerName2", "PlayerName3"]
 ```
 
 ---
