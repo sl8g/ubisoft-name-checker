@@ -4,7 +4,6 @@ A Ubisoft/Rainbow Six Siege username availability checker with login, random nam
 ## Requirements
 - Python 3.x
 - `requests`
-- `pyperclip`
 
 Install dependencies:
 ```bash
